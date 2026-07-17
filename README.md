@@ -129,13 +129,3 @@ Queue implementation has O(n) enqueue complexity
 No iterator support
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-🔮 Future Enhancements :
-
-📦 Add STL-like iterators
-⚡ Optimize Queue using rear pointer
-🧵 Thread-safe data structures
-📊 Add searching & sorting algorithms
-📂 Convert into reusable header library
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
